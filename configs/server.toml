@@ -1,0 +1,3 @@
+bind_addr = ":8080"
+database_url = "host=localhost dbname=server_dev sslmode=disable"
+session_key = "r83qmh7u4x68ejhz6csq7c8jrfjb2mgwqgjzkpdg3acbba59dqnga4aghcfx75nm"
